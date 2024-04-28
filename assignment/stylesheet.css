@@ -1,0 +1,60 @@
+header {
+    background-color: black;
+    text-align: center;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+h1 {
+    color: white;
+}
+.header {
+    color: #f78af7;
+}
+.test {
+    color: yellow;
+}
+.red {
+    color: red;
+    font-style: italic;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.firstname {
+    color: #f78af7;
+    font-family: fantasy;
+}
+.lastname {
+    
+    color:aliceblue;
+    font-variant: small-caps;
+    font-family: cursive;
+}
+
+.something {
+    color: #b074ff;
+    font-style: oblique;
+}
+
+h2 {
+    font-size: 50px;
+    color: white
+}
+.inside {
+    color: #b074ff;
+}
+.main {
+    color: black;
+    text-align: center;
+    
+}
+main {
+    background-color: lightgray;
+    padding: 1em;
+}
+body {
+    background-image: url("./record.png");
+    background-repeat: repeat;
+    margin: 0;
+}
